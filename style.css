@@ -1,0 +1,185 @@
+/*body{
+    font-family: Arial,arial,sans-serif;
+
+    
+}
+div.first{
+    width: 1000px;
+    border: 2px ;
+    margin: 0px auto;
+    
+}
+.heder{
+    margin: 30px 0px 0px 0px;
+}
+h1.heading{
+    font-weight: normal;
+    font-size: 18px;
+    vertical-align: super;
+    color: #636065;
+    
+}
+.hbuttono{
+
+    border: none;
+    background-color: #ffffff;
+    font-weight: bolder;
+    position: relative;
+    bottom: 90px;
+    left: -159px;
+    float: right;
+    height: 43px;
+    width: 140px;
+    padding: 5px;
+    color: #2965be;
+}
+.hbuttono:hover{
+    border: solid #b0cfda 4px;
+    border-radius: 10px;
+}
+.hbuttont{
+    color: #ffffff;
+    background-color: #ff7700;
+    font-weight: bold;
+    border: none;
+    height: 43px;
+    width: 140px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 90px;
+    left: 140px;
+    float: right;
+}
+.hbuttont:hover{
+    background-color: #ec9344;
+}
+.top{
+    vertical-align: -36px;
+    height: 81px;
+    width: 130px;
+    border-bottom: 3px solid;
+    border-left: 2px solid;
+    border-radius: 25px;
+    padding: 18px;
+    box-shadow: -2px 1px 4px black;
+}
+div.bar{
+    background-color: #b0cfda;
+    height: 33px;
+    border-radius: 8px;
+    padding: 15px 2px 15px 15px;
+    margin: 33px 0px 0px 0px;
+}
+input.barf{
+    
+    height: 28px;
+    border-radius: 5px;
+    border: none;
+    padding: 2px 2px 2px 15px;
+}
+.fone{
+    width: 200px;
+    margin-right: 30px;
+}
+.ftwo{
+    width: 450px;
+}
+.button{
+    background-color: #2965be;
+    height: 40px;
+    width: 135px;
+    padding: 5px;
+    float: right;
+    border-radius: 10px;
+    border: 3px solid white;
+    position: relative;
+    bottom: 34px;
+    right: 110px;
+    color: white;
+    
+}
+.medium{
+    vertical-align: -8px;
+}
+.tone{
+    border-spacing: 3px 5px ;
+    width: 500px ;
+    margin: 40px 12px ;
+    
+}
+td{
+    text-align: center;
+    padding: 5px
+    
+}
+td:hover{
+    border: solid #b0cfda 4px;
+    border-radius: 10px;
+}
+.ad{
+    float: right;
+    position: relative;
+    top: 45px;
+    left: 90px;
+
+}
+
+.background{
+    position: relative;
+    right: 171px;
+    bottom: -80px;
+    z-index: 1;
+}
+.cone{
+    z-index: 2;
+    position: relative;
+    left: 72px;
+    bottom: 83px
+}
+.ctwo{
+    z-index: 2;
+    position: relative;
+    left: 320px;
+    bottom: 143px;
+}
+.cthre{
+    z-index: 2;
+    position: relative;
+    left: 330px;
+    bottom: 147px;
+}
+div.footer li,a,p{
+    list-style-type: none;
+    font-size: 15px;
+    text-decoration: none;
+    color: #636065;
+}
+div.footer a:hover{
+    color: #ec9344;
+    text-decoration: underline;
+}
+.ftfour{
+    float: right;
+    margin: 5px 40px;
+    cursor: pointer;        
+}
+.fttre{
+    float: right;
+    margin: 5px 20px;
+}
+.fttwo{
+    float: right;
+    margin: 5px 20px;
+}
+.ftone{
+    float: right;
+    margin: 5px 20px;
+}
+.flogo{
+    height: 93px;
+    width: 130px;
+    margin: -16px 11px;
+}
+
+
+    */
